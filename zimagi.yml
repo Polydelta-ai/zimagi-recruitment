@@ -1,0 +1,11 @@
+name: recruitment
+
+modules:
+    - remote: https://github.com/Polydelta-ai/zimagi-schools.git
+      reference: main
+
+    - remote: https://github.com/Polydelta-ai/zimagi-associations.git
+      reference: main
+
+    - remote: https://github.com/Polydelta-ai/zimagi-non-profits.git
+      reference: main  
